@@ -1,5 +1,7 @@
 # Yarn Website
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yarnpkg/website.svg)](https://greenkeeper.io/)
+
 This repo contains the source code for the Yarn website.
 
 In order to get started:
